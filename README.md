@@ -1,24 +1,21 @@
-# my-app
+# 后台管理系统
 
 ## Project setup
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+## Project technology
 ```
-yarn serve
+Vue2 VueRouter Axios Echarts Vuex
 ```
-
-### Compiles and minifies for production
+## Project features
 ```
-yarn build
+实现登录验证，并且根据不同的账户显示不同的内容
 ```
-
-### Lints and fixes files
 ```
-yarn lint
+对主页进行数据可视化，整洁美观
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+对后台管理的数据可以实现增删改查的基本操作
+```
