@@ -21,8 +21,8 @@ Vue2 VueRouter Axios Echarts Vuex
 ```
 ## Project accounts
 ``` 
-account:admin password:admin  显示完整内容
+account: admin     password: admin  (显示完整内容)
 ```
 ```
-account:xiaoxiao password:xiaoxiao  显示部分内容
+account: xiaoxiao     password: xiaoxiao  (显示部分内容)
 ```
