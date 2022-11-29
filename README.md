@@ -19,3 +19,10 @@ Vue2 VueRouter Axios Echarts Vuex
 ```
 对后台管理的数据可以实现增删改查的基本操作
 ```
+## Project accounts
+``` 
+account:admin password:admin  显示完整内容
+```
+```
+account:xiaoxiao password:xiaoxiao  显示部分内容
+```
